@@ -46,6 +46,8 @@ App Startup | Splash Screen | Home Screen
 
 "Clicking the 'Flip' button presents you with two possibilities: `heads or tails`.
 
+[⬆️ Back to Tools](#usage)
+
 "Flip a Coin" Walkthrough | Default Screen | Result Screen
 --- | --- | --- 
 <img src="assets/gifs/coin-flip.gif" width="200"> | <img src="assets/screenshots/coin-flip.png" width="200"> | <img src="assets/screenshots/coin-flip-heads.png" width="200">
@@ -54,6 +56,8 @@ App Startup | Splash Screen | Home Screen
 
 "Clicking the 'Roll' button presents you with six possibilities: `1, 2, 3, 4, 5 or 6`.
 
+[⬆️ Back to Tools](#usage)
+
 "Roll a Dice" Walkthrough | Default Screen | Result Screen
 --- | --- | --- 
 <img src="assets/gifs/dice-roll.gif" width="200"> | <img src="assets/screenshots/dice-roll.png" width="200"> | <img src="assets/screenshots/dice-roll-1.png" width="200">
@@ -61,6 +65,8 @@ App Startup | Splash Screen | Home Screen
 ### Spin a Wheel
 
 "Clicking the 'Spin' button presents you with eight possibilities: `1, 2, 3, 4, 5, 6, 7 or 8`.
+
+[⬆️ Back to Tools](#usage)
 
 "Spin a Wheel" Walkthrough | Default Screen | Result Screen
 --- | --- | --- 
